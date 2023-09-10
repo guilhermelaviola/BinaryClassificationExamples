@@ -1,4 +1,8 @@
-# BinaryClasisficationExamples
+# BinaryClassificationExamples
+
+# Sarcasm Detection
+Sarcasm detection is another advanced problem of binary classification. Here your end goal is to predict whether a piece of text contains sarcasm or not. For this task, you will be given a dataset of texts containing sarcasm and texts without sarcasm, and your task will be to train a machine learning model that can predict whether a text contains sarcasm or not.
+
 # Spam Detection
 Spam detection is one of the most common binary classification problems in the data science community. Every newbie in data science tries this problem to figure out how to solve the binary classification problem. Here, you will be given a dataset of spam and not spam emails or messages, and your task here is to train a machine learning model to classify whether a message or email falls into the category of spam or ham (not spam).
 
